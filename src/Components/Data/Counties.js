@@ -108,4 +108,84 @@ export const county = [
     id: 27,
     name: "Uasin Gishu",
   },
+  {
+    id: 28,
+    name: "Elgeyo-Marakwet",
+  },
+  {
+    id: 29,
+    name: "Nandi",
+  },
+  {
+    id: 30,
+    name: "Baringo",
+  },
+  {
+    id: 31,
+    name: "Laikipia",
+  },
+  {
+    id: 32,
+    name: "Nakuru",
+  },
+  {
+    id: 33,
+    name: "Narok",
+  },
+  {
+    id: 34,
+    name: "Kajiado",
+  },
+  {
+    id: 35,
+    name: "Kericho",
+  },
+  {
+    id: 36,
+    name: "Bomet",
+  },
+  {
+    id: 37,
+    name: "Kakamega",
+  },
+  {
+    id: 38,
+    name: "Vihiga",
+  },
+  {
+    id: 39,
+    name: "Bungoma",
+  },
+  {
+    id: 40,
+    name: "Busia",
+  },
+  {
+    id: 41,
+    name: "Siaya",
+  },
+  {
+    id: 42,
+    name: "Kisumu",
+  },
+  {
+    id: 43,
+    name: "Homa Bay",
+  },
+  {
+    id: 44,
+    name: "Migori",
+  },
+  {
+    id: 45,
+    name: "Kisii",
+  },
+  {
+    id: 46,
+    name: "Nyamira",
+  },
+  {
+    id: 47,
+    name: "Nairobi",
+  },
 ];
