@@ -2,7 +2,22 @@ export const president = [
   {
     county: "Mombasa",
     candidate1: {
-      name: "",
+      name: "William Samoe Ruto",
+      party: "UDA",
+      votes: 0,
+    },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
       party: "",
       votes: 0,
     },
@@ -24,10 +39,53 @@ export const president = [
       party: "",
       votes: 0,
     },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
   },
   {
     county: "Kilifi",
     candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
       name: "",
       party: "",
       votes: 0,
@@ -40,10 +98,86 @@ export const president = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
   },
   {
     county: "Lamu",
     candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
       name: "",
       party: "",
       votes: 0,
@@ -56,10 +190,86 @@ export const president = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
   },
   {
     county: "Garissa",
     candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
       name: "",
       party: "",
       votes: 0,
@@ -72,10 +282,86 @@ export const president = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
   },
   {
     county: "Mandera",
     candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
       name: "",
       party: "",
       votes: 0,
@@ -88,10 +374,86 @@ export const president = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
   },
   {
     county: "Isiolo",
     candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
       name: "",
       party: "",
       votes: 0,
@@ -104,10 +466,86 @@ export const president = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
   },
   {
     county: "Tharaka Nithi",
     candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
       name: "",
       party: "",
       votes: 0,
@@ -120,10 +558,86 @@ export const president = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
   },
   {
     county: "Kitui",
     candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
       name: "",
       party: "",
       votes: 0,
@@ -136,10 +650,86 @@ export const president = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
   },
   {
     county: "Makueni",
     candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
       name: "",
       party: "",
       votes: 0,
@@ -152,10 +742,86 @@ export const president = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
   },
   {
     county: "Nyeri",
     candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
       name: "",
       party: "",
       votes: 0,
@@ -168,6 +834,44 @@ export const president = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
   },
   {
     county: "Kiambu",
@@ -176,10 +880,86 @@ export const president = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
   },
   {
     county: "Kisii",
     candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
       name: "",
       party: "",
       votes: 0,
@@ -192,6 +972,44 @@ export const president = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
   },
   {
     county: "Turkana",
@@ -200,10 +1018,87 @@ export const president = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
   },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+  },
+
   {
     county: "Uasin Gishu",
     candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
       name: "",
       party: "",
       votes: 0,
@@ -216,10 +1111,86 @@ export const president = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
   },
   {
     county: "Nandi",
     candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
       name: "",
       party: "",
       votes: 0,
@@ -232,6 +1203,44 @@ export const president = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
   },
   {
     county: "Laikipia",
@@ -240,10 +1249,86 @@ export const president = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
   },
   {
     county: "Kakamega",
     candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
       name: "",
       party: "",
       votes: 0,
@@ -256,10 +1341,86 @@ export const president = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
   },
   {
     county: "Bungoma",
     candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
       name: "",
       party: "",
       votes: 0,
@@ -272,10 +1433,86 @@ export const president = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
   },
   {
     county: "Kakamega",
     candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
       name: "",
       party: "",
       votes: 0,
@@ -288,10 +1525,86 @@ export const president = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
   },
   {
     county: "Homa Bay",
     candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
       name: "",
       party: "",
       votes: 0,
@@ -304,10 +1617,86 @@ export const president = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
   },
   {
     county: "Kisii",
     candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
       name: "",
       party: "",
       votes: 0,
@@ -320,10 +1709,86 @@ export const president = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
   },
   {
     county: "Nairobi",
     candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Kwale",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
       name: "",
       party: "",
       votes: 0,
