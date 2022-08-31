@@ -11,25 +11,25 @@ export default function navbar() {
             <a href="/">Home</a>
           </li>
           <li>
-            <a href="/about">About</a>
+            <a href="/About">About</a>
           </li>
           <li>
-            <a href="/governor">Governor</a>
+            <a href="/Governor">Governor</a>
           </li>
           <li>
-            <a href="/mca">MCA</a>
+            <a href="/MCA">MCA</a>
           </li>
           <li>
-            <a href="/senator">Senator</a>
+            <a href="/Senator">Senator</a>
           </li>
           <li>
-            <a href="/womanrep">WomanRep</a>
+            <a href="/Womanrep">WomanRep</a>
           </li>
           <li>
-            <a href="/mp">MP</a>
+            <a href="/MP">MP</a>
           </li>
           <li>
-            <a href="./Results/President.js">President</a>
+            <a href="/President">President</a>
           </li>
         </div>
       </ul>
