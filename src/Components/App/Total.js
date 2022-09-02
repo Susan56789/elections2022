@@ -2,6 +2,8 @@ import React from 'react'
 import './total.css'
 import { party } from '../Data/Party'
 import { president } from '../Data/President'
+import { BarChart, Bar, CartesianGrid, XAxis, YAxis } from 'recharts';
+
 
 function Total() {
 
@@ -53,66 +55,89 @@ function Total() {
     let total = total1 + total2 + total3 + total3
     console.log('Total Votes', total)
 
-    //colors
+    const dat = [
 
-    party.forEach((party) => {
-        if (party1 === party.abbreviation) {
-            let color1 = party.color;
-            console.log('color', color1);
+        {
+            name: name1,
+            votes: total1,
+            party: party1,
 
-        } else if (party2 === party.abbreviation) {
-            let color2 = party.color;
-            console.log('color', color2);
-        } else if (party3 === party.abbreviation) {
-            let color3 = party.color;
-            console.log('color', color3);
-        } else if (party4 === party.abbreviation) {
-            let color4 = party.color;
-            console.log('color', color4);
+
+
+        }, {
+            name: name2,
+            votes: total2,
+            party: party2,
+
+
+        }, {
+            name: name3,
+            votes: total3,
+            party: party3,
+
+        },
+        {
+            name: name4,
+            votes: total4,
+            party: party4,
+
         }
-    })
+
+
+    ]
 
 
     return (
-        <div className="card">
-            <tr>
-                <td>
-                    <img src={img1} alt="William Ruto" />
-                </td>
-                <td>{name1}</td>
-                <td>{party1}</td>
-                <td>{total1}</td>
-                <td>{(total1 / total) * 100}%</td>
-            </tr>
-            <tr>
-                <td>
-                    <img src={img2} alt="Raila Odinga" />
-                </td>
-                <td>{name2}</td>
-                <td>{party2}</td>
-                <td>{total2}</td>
-                <td>{(total2 / total) * 100}%</td>
-            </tr>
-            <tr>
-                <td>
-                    <img src={img3} alt="George Wajackoyah" />
-                </td>
-                <td>{name3}</td>
-                <td>{party3}</td>
-                <td>{total3}</td>
-                <td>{(total3 / total) * 100}%</td>
-            </tr>
-            <tr>
-                <td>
-                    <img src={img4} alt="David Waihiga" />
-                </td>
-                <td>{name4}</td>
-                <td>{party4}</td>
-                <td>{total4}</td>
-                <td>{(total4 / total) * 100}%</td>
-            </tr>
+        <>
+            <div className="card">
+                <tr>
+                    <td>
+                        <img src={img1} alt="William Ruto" />
+                    </td>
+                    <td>{name1}</td>
+                    <td>{party1}</td>
+                    <td>{total1}</td>
+                    <td>{(total1 / total) * 100}%</td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src={img2} alt="Raila Odinga" />
+                    </td>
+                    <td>{name2}</td>
+                    <td>{party2}</td>
+                    <td>{total2}</td>
+                    <td>{(total2 / total) * 100}%</td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src={img3} alt="George Wajackoyah" />
+                    </td>
+                    <td>{name3}</td>
+                    <td>{party3}</td>
+                    <td>{total3}</td>
+                    <td>{(total3 / total) * 100}%</td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src={img4} alt="David Waihiga" />
+                    </td>
+                    <td>{name4}</td>
+                    <td>{party4}</td>
+                    <td>{total4}</td>
+                    <td>{(total4 / total) * 100}%</td>
+                </tr>
 
-        </div>
+            </div><br />
+            <div className="card">
+                <BarChart width={730} height={250} data={dat}>
+                    <CartesianGrid strokeDasharray="3 3" />
+                    <XAxis dataKey="name" />
+                    <YAxis />
+                    <Bar dataKey="votes" fill='black' />
+                </BarChart>
+            </div>
+
+        </>
     )
 }
 
