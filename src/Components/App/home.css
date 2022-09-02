@@ -1,14 +1,20 @@
-body{
-    font-size: 18px;
-    font-family: 'Roboto', sans-serif;
-    background-color: #f5f5f5;
+body {
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  background-color: #f5f5f5;
 }
-h1{
-    color: green;
-    text-align: left;
+h1,
+h2 {
+  color: green;
+  text-align: left;
 }
-td{
-    padding: 10px;
-    border: 1px solid #ccc;
-    width: 30%;
+td {
+  padding: 10px;
+  border: 1px solid #ccc;
+  width: 30%;
+}
+p {
+  text-align: left;
+  font-size: medium;
+  font-family: "Times New Roman", Times, serif;
 }

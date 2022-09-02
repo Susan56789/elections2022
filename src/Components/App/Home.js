@@ -19,7 +19,7 @@ function Home() {
         multi-party system was implemented in 1992. All parliamentarians elected will sit in the 13th Parliament of Kenya.</p>
       <h2>National Presidential Results</h2>
       <PieChart width={700} height={700}>
-        <Pie data={county} dataKey="id" outerRadius={250} fill="yellow" label='name' />
+        <Pie data={county} dataKey="id" outerRadius={250} fill="yellow" label="name" />
       </PieChart>
     </div>
   );
