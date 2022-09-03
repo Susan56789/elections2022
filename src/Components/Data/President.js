@@ -120,13 +120,13 @@ export const president = [
   {
     county: "Taita Taveta",
     candidate1: {
-      name: "",
-      party: "",
+      name: "William Ruto",
+      party: "UDA",
       votes: 0,
     },
     candidate2: {
       name: "Raila Odinga",
-      party: "",
+      party: "ODM",
       votes: 0,
     },
     candidate3: {
