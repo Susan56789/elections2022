@@ -7,28 +7,28 @@ export default function navbar() {
       <div className="logo">Kenya 2022 Election Results</div>
       <ul className="nav-links">
         <div className="menu">
-          <li>
+          <li className="items">
             <a href="/">Home</a>
           </li>
-          <li>
+          <li className="items">
             <a href="/About">About</a>
           </li>
-          <li>
+          <li className="items">
             <a href="/Governor">Governor</a>
           </li>
-          <li>
+          <li className="items">
             <a href="/MCA">MCA</a>
           </li>
-          <li>
+          <li className="items">
             <a href="/Senator">Senator</a>
           </li>
-          <li>
+          <li className="items">
             <a href="/Womanrep">WomanRep</a>
           </li>
-          <li>
+          <li className="items">
             <a href="/MP">MP</a>
           </li>
-          <li>
+          <li className="items">
             <a href="/President">President</a>
           </li>
         </div>
