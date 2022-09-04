@@ -130,8 +130,8 @@ export const president = [
       votes: 0,
     },
     candidate3: {
-      name: "George",
-      party: "",
+      name: "George Wajackoyah",
+      party: "RPK",
       votes: 0,
     },
     candidate4: {
