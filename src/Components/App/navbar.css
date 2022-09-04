@@ -39,3 +39,26 @@ li {
 .menu li {
   padding: 5px 14px;
 }
+
+
+@media screen and (max-width: 500px){
+    .nav-links{ {
+        flex-direction: column;
+        height: auto;
+    }
+    .menu:nth-child(1){
+        border-top: 1px solid rgba(255, 255, 255, 0.555);
+        margin-top: 50px;
+    }
+    .menu {
+        width: 100%;
+        border-top: 1px solid rgba(255, 255, 255, 0.555);
+        text-align: center;
+        margin-right: 0px;
+        padding: 20px 0;
+    }
+    .menu li {
+        padding: 5px 0;
+    }
+    
+}
