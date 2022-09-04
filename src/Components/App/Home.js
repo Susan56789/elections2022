@@ -5,7 +5,7 @@ import Total from "./Total";
 function Home() {
   return (
     <div className="home">
-      <h1>Kenya Elections</h1>
+      <h1>Kenya Elections 2022</h1>
       <p>
         <span>
           General elections were held in Kenya on 9 August 2022.
