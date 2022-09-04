@@ -32,34 +32,25 @@ li {
   font-size: 18px;
 }
 .menu li:hover {
-  background-color: green;
-  color: white;
+  background-color: aquamarine;
   border-radius: 5px;
   transition: 0.3s ease;
 }
 .menu li {
   padding: 5px 14px;
 }
-
-@media screen and (max-width: 500px) {
-  .nav-links {
-     {
-      flex-direction: column;
-      height: auto;
-    }
-    .items:nth-child(1) {
-      border-top: 1px solid rgba(255, 255, 255, 0.555);
-      margin-top: 50px;
-    }
-    .items {
-      width: 100%;
-      border-top: 1px solid rgba(255, 255, 255, 0.555);
-      text-align: center;
-      margin-right: 0px;
-      padding: 20px 0;
-    }
-    .items a {
-      font-size: 20px;
-    }
-  }
+.menu li a {
+  color: white;
+}
+.menu li a:hover {
+  color: goldenrod;
+}
+.menu li a:active {
+  color: green;
+}
+.menu li a:visited {
+  color: maroon;
+}
+.menu li a:link {
+  color: wheat;
 }
