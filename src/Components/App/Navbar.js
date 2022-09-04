@@ -1,38 +1,48 @@
 import React from "react";
 import "./navbar.css";
 
-export default function navbar() {
+const Navbar = () => {
+
   return (
     <div className="navbar">
-      <div className="logo">Kenya 2022 Election Results</div>
+      <div className="logo">
+        <img src="https://media.istockphoto.com/photos/kenya-flag-4k-picture-id1321131238?b=1&k=20&m=1321131238&s=170667a&w=0&h=J92vrvLbYTrfyq_yodmpp8cyBrsst-D2_H11F9feVQw=" alt="logo" />
+      </div>
+
+
+
+
       <ul className="nav-links">
         <div className="menu">
-          <li className="items">
+          <li >
             <a href="/">Home</a>
           </li>
-          <li className="items">
+          <li  >
             <a href="/About">About</a>
           </li>
-          <li className="items">
+          <li  >
             <a href="/Governor">Governor</a>
           </li>
-          <li className="items">
+          <li  >
             <a href="/MCA">MCA</a>
           </li>
-          <li className="items">
-            <a href="/Senator">Senator</a>
+          <li  >
+            <a href="/Senator">Senate</a>
           </li>
-          <li className="items">
+          <li  >
             <a href="/Womanrep">WomanRep</a>
           </li>
-          <li className="items">
+          <li  >
             <a href="/MP">MP</a>
           </li>
-          <li className="items">
+          <li  >
             <a href="/President">President</a>
           </li>
+
+
         </div>
       </ul>
     </div>
   );
 }
+export default Navbar;

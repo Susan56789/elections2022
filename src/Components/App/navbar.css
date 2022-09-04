@@ -1,4 +1,5 @@
 * {
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
@@ -15,15 +16,18 @@ li {
 .navbar {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  padding: 20px;
-  background-color: black;
-  color: white;
+  padding: 0.5rem 0rem;
+  position: relative;
+  background-color: #fff;
+  color: #000;
   width: 100%;
+  box-shadow: 0 2px 2px 2px rgba(9, 9, 9, 0.23);
 }
 .logo {
   font-size: 30px;
   font-weight: bold;
+  margin-right: 10px;
+  margin-left: 10px;
 }
 
 .menu {
@@ -40,17 +44,15 @@ li {
   padding: 5px 14px;
 }
 .menu li a {
-  color: white;
+  color: black;
 }
-.menu li a:hover {
-  color: goldenrod;
-}
+
 .menu li a:active {
   color: green;
 }
 .menu li a:visited {
-  color: white;
+  color: green;
 }
 .menu li a:link {
-  color: wheat;
+  color: #800000;
 }
