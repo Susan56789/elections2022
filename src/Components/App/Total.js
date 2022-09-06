@@ -1,6 +1,5 @@
 import React from 'react'
 import './total.css'
-import { party } from '../Data/Party'
 import { president } from '../Data/President'
 import { BarChart, Bar, CartesianGrid, XAxis, YAxis } from 'recharts';
 
@@ -88,7 +87,7 @@ function Total() {
 
 
     return (
-        <>
+        <><>
             <div className="card">
                 <tr>
                     <td>
@@ -96,11 +95,11 @@ function Total() {
                     </td>
                     <td>{name1}</td>
                     <td>{party1}</td>
-<<<<<<< HEAD
+
                     <td>{(total1).toLocaleString()}</td>
-=======
-                    <td>{total1}</td>
->>>>>>> b319bf4ca1cfdd1001d2db31afcb5eec46dc5681
+
+
+
                     <td>{(total1 / total) * 100}%</td>
                 </tr>
                 <tr>
@@ -109,11 +108,11 @@ function Total() {
                     </td>
                     <td>{name2}</td>
                     <td>{party2}</td>
-<<<<<<< HEAD
+
                     <td>{(total2).toLocaleString()}</td>
-=======
-                    <td>{total2}</td>
->>>>>>> b319bf4ca1cfdd1001d2db31afcb5eec46dc5681
+
+
+
                     <td>{(total2 / total) * 100}%</td>
                 </tr>
                 <tr>
@@ -122,11 +121,9 @@ function Total() {
                     </td>
                     <td>{name3}</td>
                     <td>{party3}</td>
-<<<<<<< HEAD
+
                     <td>{(total3).toLocaleString()}</td>
-=======
-                    <td>{total3}</td>
->>>>>>> b319bf4ca1cfdd1001d2db31afcb5eec46dc5681
+
                     <td>{(total3 / total) * 100}%</td>
                 </tr>
                 <tr>
@@ -135,20 +132,18 @@ function Total() {
                     </td>
                     <td>{name4}</td>
                     <td>{party4}</td>
-<<<<<<< HEAD
                     <td>{(total4).toLocaleString()}</td>
                     <td>{(total4 / total) * 100}%</td>
-                </tr><br />
+                </tr>
+                <br />
                 <tr>
                     <p>Total votes: {(total).toLocaleString()}</p>
                 </tr>
-=======
-                    <td>{total4}</td>
-                    <td>{(total4 / total) * 100}%</td>
-                </tr>
 
->>>>>>> b319bf4ca1cfdd1001d2db31afcb5eec46dc5681
-            </div><br />
+
+            </div>
+        </>
+            <br />
             <div className="card">
                 <BarChart width={730} height={250} data={dat}>
                     <CartesianGrid strokeDasharray="3 3" />
@@ -156,10 +151,12 @@ function Total() {
                     <YAxis />
                     <Bar dataKey="votes" fill='black' />
                 </BarChart>
-            </div>
+            </div></>
 
-        </>
+
+
     )
 }
+
 
 export default Total

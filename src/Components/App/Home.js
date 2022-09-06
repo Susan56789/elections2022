@@ -6,9 +6,9 @@ function Home() {
   return (
     <div className="home">
       <h1>Kenya Elections 2022</h1>
-<<<<<<< HEAD
 
-=======
+
+
       <p>
         <span>
           General elections were held in Kenya on 9 August 2022.
@@ -23,7 +23,7 @@ function Home() {
         </span>
       </p>
       <br />
->>>>>>> b319bf4ca1cfdd1001d2db31afcb5eec46dc5681
+
       <h2>National Presidential Results</h2>
       <Total />
 
