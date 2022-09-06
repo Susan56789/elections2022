@@ -336,6 +336,7 @@ export const president = [
   {
     county: "Kitui",
     candidate1: {
+<<<<<<< HEAD
       name: "William Ruto",
       party: "UDA",
       votes: 89419,
@@ -354,12 +355,33 @@ export const president = [
       name: "David Waihiga",
       party: "AGANO",
       votes: 1414,
+=======
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+>>>>>>> b319bf4ca1cfdd1001d2db31afcb5eec46dc5681
     },
   },
 
   {
     county: "Machakos",
     candidate1: {
+<<<<<<< HEAD
       name: "William Ruto",
       party: "UDA",
       votes: 101456,
@@ -378,12 +400,33 @@ export const president = [
       name: "David Waihiga",
       party: "AGANO",
       votes: 1070,
+=======
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+>>>>>>> b319bf4ca1cfdd1001d2db31afcb5eec46dc5681
     },
   },
 
   {
     county: "Makueni",
     candidate1: {
+<<<<<<< HEAD
       name: "William Ruto",
       party: "UDA",
       votes: 59195,
@@ -402,12 +445,33 @@ export const president = [
       name: "David Waihiga",
       party: "AGANO",
       votes: 575,
+=======
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+>>>>>>> b319bf4ca1cfdd1001d2db31afcb5eec46dc5681
     },
   },
 
   {
     county: "Nyandarua",
     candidate1: {
+<<<<<<< HEAD
       name: "William Ruto",
       party: "UDA",
       votes: 189519,
@@ -426,12 +490,33 @@ export const president = [
       name: "David Waihiga",
       party: "AGANO",
       votes: 821,
+=======
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+>>>>>>> b319bf4ca1cfdd1001d2db31afcb5eec46dc5681
     },
   },
 
   {
     county: "Nyeri",
     candidate1: {
+<<<<<<< HEAD
       name: "William Ruto",
       party: "UDA",
       votes: 272507,
@@ -450,12 +535,33 @@ export const president = [
       name: "David Waihiga",
       party: "AGANO",
       votes: 982,
+=======
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+>>>>>>> b319bf4ca1cfdd1001d2db31afcb5eec46dc5681
     },
   },
 
   {
     county: "Kirinyaga",
     candidate1: {
+<<<<<<< HEAD
       name: "William Ruto",
       party: "UDA",
       votes: 220984,
@@ -474,6 +580,26 @@ export const president = [
       name: "David Waihiga",
       party: "AGANO",
       votes: 640,
+=======
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate2: {
+      name: "Raila Odinga",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "George",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "Mwaura",
+      party: "",
+      votes: 0,
+>>>>>>> b319bf4ca1cfdd1001d2db31afcb5eec46dc5681
     },
   },
 

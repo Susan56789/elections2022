@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
   box-sizing: border-box;
 }
@@ -16,3 +17,8 @@ li {
   padding: 0;
   margin: 0;
 }
+=======
+*{
+  box-sizing: border-box;
+}
+>>>>>>> b319bf4ca1cfdd1001d2db31afcb5eec46dc5681

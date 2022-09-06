@@ -1,4 +1,5 @@
 import React from 'react'
+<<<<<<< HEAD
 import '../../App.css'
 function About() {
     return (
@@ -24,6 +25,12 @@ function About() {
 
             <p>There are 47 counties and 290 constituencies in Kenya</p>
         </div>
+=======
+
+function About() {
+    return (
+        <div>About</div>
+>>>>>>> b319bf4ca1cfdd1001d2db31afcb5eec46dc5681
     )
 }
 
