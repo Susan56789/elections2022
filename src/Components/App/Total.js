@@ -137,7 +137,16 @@ function Total() {
                 </tr>
                 <br />
                 <tr>
-                    <p>Total votes: {(total).toLocaleString()}</p>
+                    <td>
+                        <p>Total votes tallied: {(total).toLocaleString()}</p>
+                    </td>
+                    <td>
+                        <p>
+                            <small>
+                                The winner of presidential elections needs 50% + 1 of the valid votes cast and at least 25% votes in more than 24 counties
+                            </small>
+                        </p>
+                    </td>
                 </tr>
 
 
