@@ -6,6 +6,38 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
+
   },
 
   {
@@ -25,38 +57,188 @@ export const governor = [
       party: "PAA",
       votes: 47639,
     },
+    candidate4: {
+      name: "Chirau Mwakwere",
+      party: "WDM-K",
+      votes: 9639,
+    },
+    candidate5: {
+      name: "Sammy Ruwa",
+      party: "IND",
+      votes: 5562,
+    },
+    candidate6: {
+      name: "James Dena",
+      party: "KANU",
+      votes: 2310,
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Kilifi",
     candidate1: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Maitha Mungaro ",
+      party: "ODM",
+      votes: 143773,
     },
+
+    candidate2: {
+      name: "Aisha Katana",
+      party: "UDA",
+      votes: 65893,
+    },
+    candidate3: {
+      name: "George Kithi",
+      party: "PAA",
+      votes: 64326,
+    },
+    candidate4: {
+      name: "Michael Jefwa",
+      party: "FORD-K",
+      votes: 2864,
+    },
+    candidate5: {
+      name: "Franco Esposito",
+      party: "IND",
+      votes: 2709,
+    },
+    candidate6: {
+      name: "David Kombe",
+      party: "USP",
+      votes: 2574,
+    },
+
+    candidate7: {
+      name: "Alphonse Mbaru",
+      party: "SAFINA",
+      votes: 1497,
+    }
+
+
   },
   {
     county: "Tana River",
     candidate1: {
+      name: "Dhadho Godhana",
+      party: "ODN",
+      votes: 26892,
+    },
+    candidate2: {
+      name: "Tuneya Dado",
+      party: "UDA",
+      votes: 26633,
+    },
+    candidate3: {
+      name: "Nuh Abdi",
+      party: "UPI",
+      votes: 24101,
+    },
+    candidate4: {
+      name: "Ali Wario",
+      party: "JP",
+      votes: 10473,
+    },
+    candidate5: {
+      name: "Kea Salim",
+      party: "IND",
+      votes: 2175,
+    },
+    candidate6: {
       name: "",
       party: "",
       votes: 0,
     },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
+
   },
   {
     county: "Lamu",
     candidate1: {
+      name: "Issac Timamy",
+      party: "ANC",
+      votes: 24198,
+    },
+    candidate2: {
+      name: "Famih Twaha",
+      party: "JP",
+      votes: 16054,
+    },
+    candidate3: {
+      name: "Umrar Omar",
+      party: "SAFINA",
+      votes: 7556,
+    },
+    candidate4: {
+      name: "Eric Mugo",
+      party: "NARC-K",
+      votes: 2151,
+    },
+    candidate5: {
       name: "",
       party: "",
       votes: 0,
     },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
+
   },
   {
     county: "Taita Taveta",
     candidate1: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Andrew Mwadime",
+      party: "IND",
+      votes: 49901,
     },
+    candidate2: {
+      name: "Granton Samboja",
+      party: "JP",
+      votes: 23703,
+    },
+    candidate3: {
+      name: "John Mruttu",
+      party: "UDA",
+      votes: 13685,
+    },
+    candidate4: {
+      name: "Danson Mwakulegwa",
+      party: "WDM-K",
+      votes: 11543,
+    },
+    candidate5: {
+      name: "Thomas Mwakwida",
+      party: "ODM",
+      votes: 2139,
+    },
+    candidate6: {
+      name: "George Mwandembo",
+      party: "DAP-K",
+      votes: 2129,
+    },
+
+    candidate7: {
+      name: "Patience Nyange",
+      party: "NARC-K",
+      votes: 2071,
+    }
+
   },
   {
     county: "Garissa",
@@ -65,6 +247,39 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
+
+
   },
   {
     county: "Wajir",
@@ -73,6 +288,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Mandera",
@@ -81,6 +327,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Marsabit",
@@ -89,6 +366,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Isiolo",
@@ -97,6 +405,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Meru",
@@ -105,6 +444,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Tharaka Nithi",
@@ -113,6 +483,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Embu",
@@ -121,6 +522,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Kitui",
@@ -129,6 +561,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Machakos",
@@ -137,6 +600,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Makueni",
@@ -145,6 +639,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Nyandarua",
@@ -153,6 +678,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Nyeri",
@@ -161,6 +717,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Kirinyaga",
@@ -169,6 +756,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Murang'a",
@@ -177,6 +795,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Kiambu",
@@ -185,6 +834,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Kisii",
@@ -193,6 +873,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Nakuru",
@@ -201,6 +912,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Narok",
@@ -209,6 +951,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Turkana",
@@ -217,6 +990,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "West Pokot",
@@ -225,6 +1029,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Samburu",
@@ -233,6 +1068,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Trans Nzoia",
@@ -241,6 +1107,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Uasin Gishu",
@@ -249,6 +1146,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Elgeyo Marakwet",
@@ -257,6 +1185,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Nandi",
@@ -265,6 +1224,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Baringo",
@@ -273,6 +1263,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Laikipia",
@@ -281,6 +1302,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Kakamega",
@@ -289,6 +1341,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Vihiga",
@@ -297,6 +1380,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Bungoma",
@@ -305,6 +1419,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Busia",
@@ -313,6 +1458,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Siaya",
@@ -321,6 +1497,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Kajiado",
@@ -329,6 +1536,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Kericho",
@@ -337,6 +1575,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Bomet",
@@ -345,6 +1614,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
 
   {
@@ -354,6 +1654,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Homa Bay",
@@ -362,6 +1693,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Migori",
@@ -370,6 +1732,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
 
   {
@@ -379,6 +1772,37 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
   {
     county: "Nairobi",
@@ -387,5 +1811,36 @@ export const governor = [
       party: "",
       votes: 0,
     },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+
+    candidate7: {
+      name: "",
+      party: "",
+      votes: 0,
+    }
   },
 ];
