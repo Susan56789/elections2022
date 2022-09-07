@@ -6,8 +6,8 @@ function Footer() {
     <div className="footer">
       <p>
         {" "}
-        Election Results &copy; 2022. Made with ❤ by{" "}
-        <a href="https://susanwairimu.netlify.app">Sue</a>{" "}
+        Kenya Elections &copy; 2022. Made with ❤ by{" "}
+        <a href="https://susanwairimu.netlify.app" target="_blank" rel="noreferrer">Sue</a>{" "}
       </p>
     </div>
   );
