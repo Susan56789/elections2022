@@ -30,10 +30,10 @@ const Navbar = () => {
             <a href="/Senator">Senate</a>
           </li>
           <li  >
-            <a href="/Womanrep">WomanRep</a>
+            <a href="/Womanrep">Women Rep</a>
           </li>
           <li  >
-            <a href="/MP">MP</a>
+            <a href="/MP">National Assembly</a>
           </li>
           <li  >
             <a href="/President">President</a>

@@ -4,23 +4,27 @@ import './cards.css'
 
 function Governor() {
     return (
-        <div className='cards'>
-            {governor.map((governor) => (
+        <>
+            <h1>2022 Governor Race</h1>
+            <div className='cards'>
 
-                <div className='card'>
-                    <caption>{governor.county} County</caption>
-                    <tbody>
-                        <tr>
-                            <td>Candidate Names</td>
-                            <td>Party</td>
-                            <td>Votes</td>
-                        </tr>
-                        <hr />
-                    </tbody>
-                </div>
-            ))
-            }
-        </div>
+                {governor.map((governor) => (
+
+                    <div className='card'>
+                        <caption>{governor.county} County</caption>
+                        <tbody>
+                            <tr>
+                                <td>Candidate Names</td>
+                                <td>Party</td>
+                                <td>Votes</td>
+                            </tr>
+                            <hr />
+                        </tbody>
+                    </div>
+                ))
+                }
+            </div>
+        </>
     )
 }
 

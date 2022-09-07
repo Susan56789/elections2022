@@ -4,25 +4,28 @@ import './cards.css'
 
 function MP() {
     return (
-        <div className='cards'>
-            {mp.map((mp) => (
+        <>
+            <h1>2022 National Assembly Race</h1>
+            <div className='cards'>
+                {mp.map((mp) => (
 
-                <div className='card'>
-                    <caption>{mp.county} County</caption>
-                    <tbody>
-                        <tr>
-                            <td>Candidate Names</td>
-                            <td>Party</td>
-                            <td>Votes</td>
-                        </tr>
-                        <hr />
-                    </tbody>
-                </div>
+                    <div className='card'>
+                        <caption>{mp.county} County</caption>
+                        <tbody>
+                            <tr>
+                                <td>Candidate Names</td>
+                                <td>Party</td>
+                                <td>Votes</td>
+                            </tr>
+                            <hr />
+                        </tbody>
+                    </div>
 
-            ))
-            }
+                ))
+                }
 
-        </div>
+            </div>
+        </>
     )
 }
 
