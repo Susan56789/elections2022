@@ -1,7 +1,7 @@
 import React from 'react'
 import './total.css'
 import { president } from '../Data/President'
-import { BarChart, Bar, CartesianGrid, XAxis, YAxis } from 'recharts';
+import { BarChart, Bar, CartesianGrid, XAxis, YAxis, Cell } from 'recharts';
 
 
 function Total() {
@@ -84,7 +84,7 @@ function Total() {
 
 
     ]
-
+    const barColors = ["yellow", "blue", "green", 'white']
 
     return (
         <><>
@@ -145,11 +145,18 @@ function Total() {
         </>
             <br />
             <div className="card">
-                <BarChart width={730} height={250} data={dat}>
+                <BarChart width={730} height={250} data={dat} margin={{ top: 20, right: 20, left: 20, bottom: 5, }}>
                     <CartesianGrid strokeDasharray="3 3" />
-                    <XAxis dataKey="name" />
-                    <YAxis />
-                    <Bar dataKey="votes" fill='black' />
+                    <XAxis dataKey="name" stroke="#000000" />
+                    <YAxis stroke="#000000" />
+                    <Bar dataKey="votes" fill="#00a0fc"
+                        stroke="#000000"
+                        strokeWidth={1} >
+                        {dat.map((entry, index) => (
+                            <Cell key={`cell-${index}`} fill={barColors[index % 20]} />
+                        ))}
+
+                    </Bar>
                 </BarChart>
             </div></>
 
