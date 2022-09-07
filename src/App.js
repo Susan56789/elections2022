@@ -14,12 +14,14 @@ import MCA from "./Components/App/Results/MCA";
 import Senator from "./Components/App/Results/Senator";
 import Womanrep from "./Components/App/Results/Womanrep";
 import MP from './Components/App/Results/MP'
+import pic from './images//flag.png'
 
 function App() {
   return (
     <div className="App">
 
       <Navbar />
+      <img src={pic} alt="flag" className="flag" id="flag" />
       {/**configuring urls */}
       <BrowserRouter>
         <Routes>

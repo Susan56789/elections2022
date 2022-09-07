@@ -6,9 +6,8 @@ export default function President() {
   return (
     <>
 
-      <h2>Official Presidential Results Per County</h2>
 
-      <h1>Presidential Results Per County</h1>
+      <h1>Official Presidential Results Per County</h1>
 
       <div className="cards">
         {president.map((president) => (
