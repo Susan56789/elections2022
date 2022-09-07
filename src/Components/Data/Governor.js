@@ -7,6 +7,7 @@ export const governor = [
       votes: 0,
     },
   },
+
   {
     county: "Kwale",
     candidate1: {
@@ -170,6 +171,14 @@ export const governor = [
     },
   },
   {
+    county: "Murang'a",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
     county: "Kiambu",
     candidate1: {
       name: "",
@@ -194,7 +203,39 @@ export const governor = [
     },
   },
   {
+    county: "Narok",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
     county: "Turkana",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "West Pokot",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Samburu",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Trans Nzoia",
     candidate1: {
       name: "",
       party: "",
@@ -266,6 +307,22 @@ export const governor = [
     },
   },
   {
+    county: "Busia",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
+    county: "Siaya",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+  },
+  {
     county: "Kajiado",
     candidate1: {
       name: "",
@@ -274,13 +331,22 @@ export const governor = [
     },
   },
   {
-    county: "Kakamega",
+    county: "Kericho",
     candidate1: {
       name: "",
       party: "",
       votes: 0,
     },
   },
+  {
+    county: "Bomet",
+    candidate1: {
+      name: "",
+      party: "",
+      votes: 0,
+    },
+  },
+
   {
     county: "Kisumu",
     candidate1: {
@@ -305,14 +371,7 @@ export const governor = [
       votes: 0,
     },
   },
-  {
-    county: "Kisii",
-    candidate1: {
-      name: "",
-      party: "",
-      votes: 0,
-    },
-  },
+
   {
     county: "Nyamira",
     candidate1: {
