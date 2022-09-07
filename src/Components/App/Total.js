@@ -145,8 +145,8 @@ function Total() {
         </>
             <br />
             <div className="card">
-                <BarChart width={730} height={250} data={dat} margin={{ top: 20, right: 20, left: 20, bottom: 5, }}>
-                    <CartesianGrid strokeDasharray="3 3" />
+                <BarChart width={730} height={400} data={dat} margin={{ top: 20, right: 20, left: 20, bottom: 5, }}>
+                    <CartesianGrid strokeDasharray="2 2" />
                     <XAxis dataKey="name" stroke="#000000" />
                     <YAxis stroke="#000000" />
                     <Bar dataKey="votes" fill="#00a0fc"
