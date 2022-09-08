@@ -238,7 +238,6 @@ export const governor = [
       party: "NARC-K",
       votes: 2071,
     }
-
   },
   {
     county: "Garissa",
