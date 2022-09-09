@@ -17,6 +17,13 @@ export default function President() {
 
               <tbody>
                 <tr>
+                  <td>
+                    <small>
+                      Total Votes: {(president.candidate1.votes + president.candidate2.votes + president.candidate3.votes + president.candidate4.votes).toLocaleString()}
+                    </small>
+                  </td>
+                </tr>
+                <tr>
                   <td>Candidate Names</td>
                   <td>Party</td>
                   <td>Votes</td>
