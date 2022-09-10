@@ -100,7 +100,7 @@ function Total() {
 
 
 
-                    <td>{(total1 / total) * 100}%</td>
+                    <td>{((total1 / total) * 100).toFixed(2)}%</td>
                 </tr>
                 <tr>
                     <td>
@@ -113,7 +113,7 @@ function Total() {
 
 
 
-                    <td>{(total2 / total) * 100}%</td>
+                    <td>{((total2 / total) * 100).toFixed(2)}%</td>
                 </tr>
                 <tr>
                     <td>
@@ -124,7 +124,7 @@ function Total() {
 
                     <td>{(total3).toLocaleString()}</td>
 
-                    <td>{(total3 / total) * 100}%</td>
+                    <td>{((total3 / total) * 100).toFixed(2)}%</td>
                 </tr>
                 <tr>
                     <td>
@@ -133,7 +133,7 @@ function Total() {
                     <td>{name4}</td>
                     <td>{party4}</td>
                     <td>{(total4).toLocaleString()}</td>
-                    <td>{(total4 / total) * 100}%</td>
+                    <td>{((total4 / total) * 100).toFixed(2)}%</td>
                 </tr>
                 <br />
                 <tr>
