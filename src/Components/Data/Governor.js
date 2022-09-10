@@ -2,71 +2,71 @@ export const governor = [
   {
     county: "Mombasa",
     candidate1: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Abdulswamad Nassir",
+      party: "ODM",
+      votes: 119083,
     },
     candidate2: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Hassan Omar",
+      party: "UDA",
+      votes: 98105,
     },
     candidate3: {
-      name: "",
+      name: "Awiti Bollo Hezron",
       party: "",
-      votes: 0,
+      votes: 875,
     },
     candidate4: {
-      name: "",
+      name: "William Kingi",
       party: "",
-      votes: 0,
+      votes: 712,
     },
     candidate5: {
-      name: "",
+      name: "Shafi Makazi",
       party: "",
-      votes: 0,
+      votes: 633,
     },
     candidate6: {
-      name: "",
+      name: "Said Abdallalla",
       party: "",
-      votes: 0,
+      votes: 338,
     },
 
     candidate7: {
-      name: "",
+      name: "Daniel Kitsao",
       party: "",
-      votes: 0,
+      votes: 402,
     },
 
     candidate8: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate9: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate10: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate11: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate12: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate13: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     }
 
   },
@@ -106,38 +106,38 @@ export const governor = [
     candidate7: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate8: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate9: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate10: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate11: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate12: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate13: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     }
   },
   {
@@ -176,38 +176,38 @@ export const governor = [
     candidate7: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate8: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate9: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate10: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate11: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate12: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate13: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     }
 
   },
@@ -241,44 +241,44 @@ export const governor = [
     candidate6: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate7: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate8: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate9: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate10: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate11: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate12: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate13: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     }
 
   },
@@ -307,49 +307,49 @@ export const governor = [
     candidate5: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate6: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate7: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate8: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate9: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate10: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate11: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate12: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate13: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
 
@@ -428,69 +428,69 @@ export const governor = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate2: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate3: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate4: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate5: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate6: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate7: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate8: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate9: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate10: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate11: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate12: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate13: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
 
@@ -498,211 +498,211 @@ export const governor = [
   {
     county: "Wajir",
     candidate1: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Ahmed Jiir",
+      party: "ODM",
+      votes: 35533,
     },
     candidate2: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Hassan Adam",
+      party: "JP",
+      votes: 27224,
     },
     candidate3: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Ahmed Muktar",
+      party: "UDA",
+      votes: 21859,
     },
     candidate4: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Mohamed Elmi",
+      party: "IND",
+      votes: 21047,
     },
     candidate5: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Abdullahi Ali",
+      party: "UDM",
+      votes: 15486,
     },
     candidate6: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Ugas Mohammed",
+      party: "ANC",
+      votes: 8086,
     },
 
     candidate7: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Siyad Abdullahi",
+      party: "WDM-K",
+      votes: 2864,
     },
 
     candidate8: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Mohamed Muhamud",
+      party: "IND",
+      votes: 521,
     },
     candidate9: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Sirad Warfa",
+      party: "NARC-K",
+      votes: 234,
     },
     candidate10: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate11: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate12: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate13: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     }
   },
   {
     county: "Mandera",
     candidate1: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Mohammed Khalif",
+      party: "UDM",
+      votes: 53480,
     },
     candidate2: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Adan Jari",
+      party: "JP",
+      votes: 40564,
     },
     candidate3: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Hassan Hassan",
+      party: "ODM",
+      votes: 40514,
     },
     candidate4: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Noor Aden",
+      party: "UDA",
+      votes: 982,
     },
     candidate5: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate6: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate7: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate8: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate9: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate10: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate11: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate12: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate13: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     }
   },
   {
     county: "Marsabit",
     candidate1: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Mahamud Ali",
+      party: "UDM",
+      votes: 38803,
     },
     candidate2: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Francis Ganya",
+      party: "KANU",
+      votes: 28279,
     },
     candidate3: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Sunye Orre",
+      party: "ANC",
+      votes: 21774,
     },
     candidate4: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Pius Wario",
+      party: "UPIA",
+      votes: 15484,
     },
     candidate5: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Phillip Harsama",
+      party: "UDA",
+      votes: 9706,
     },
     candidate6: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Wario Wakio",
+      party: "JP",
+      votes: 774,
     },
 
     candidate7: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate8: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate9: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate10: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate11: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate12: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate13: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     }
   },
   {
@@ -710,139 +710,139 @@ export const governor = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate2: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate3: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate4: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate5: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate6: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate7: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate8: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate9: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate10: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate11: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate12: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate13: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     }
   },
   {
     county: "Meru",
     candidate1: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Kawira Mwangaza",
+      party: "IND",
+      votes: 209148,
     },
     candidate2: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Franklin Linturi",
+      party: "UDA",
+      votes: 183859,
     },
     candidate3: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Kiraitu Murungi",
+      party: "DEP",
+      votes: 110814,
     },
     candidate4: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate5: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate6: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate7: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate8: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate9: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate10: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate11: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate12: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate13: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     }
   },
   {

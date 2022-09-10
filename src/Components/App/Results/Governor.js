@@ -26,7 +26,7 @@ function Governor() {
                                         governor.candidate3.votes + governor.candidate4.votes + governor.candidate5.votes
                                         + governor.candidate6.votes + governor.candidate7.votes + governor.candidate8.votes
                                         + governor.candidate9.votes + governor.candidate10.votes + governor.candidate11.votes
-                                        + governor.candidate12.votes + governor.candidate13.votes).toLocaleString()}
+                                        + governor.candidate12.votes + governor.candidate13.votes).toLocaleString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")}
                                 </small>
                             </td>
                         </tr>
@@ -36,7 +36,7 @@ function Governor() {
                                 <td>Party</td>
                                 <td>Votes</td>
                             </tr>
-                            <hr />
+                            <div className='border' id='border'></div>
                             <tr className='item-row'>
                                 <td>{governor.candidate1.name}</td>
                                 <td>{governor.candidate1.party}</td>
@@ -105,8 +105,13 @@ function Governor() {
                             </tr>
                         </tbody>
                     </div>
+
+
                 ))
                 }
+
+
+
             </div>
         </>
     )
