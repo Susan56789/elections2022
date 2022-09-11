@@ -848,71 +848,71 @@ export const governor = [
   {
     county: "Tharaka Nithi",
     candidate1: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Onesmus Njuki",
+      party: "UDA",
+      votes: 97151,
     },
     candidate2: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Erastus Njoka",
+      party: "JP",
+      votes: 58152,
     },
     candidate3: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Mzalendo Kibunjia",
+      party: "NARC-KEN",
+      votes: 1954,
     },
     candidate4: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Francis Kagwima",
+      party: "WDM-K",
+      votes: 1562,
     },
     candidate5: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Felix Mbiuki",
+      party: "KAZI",
+      votes: 1461,
     },
     candidate6: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Ashford Mbiuki",
+      party: "IND",
+      votes: 622,
     },
 
     candidate7: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate8: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate9: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate10: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate11: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate12: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate13: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     }
   },
   {
