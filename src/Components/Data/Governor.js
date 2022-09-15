@@ -2108,51 +2108,51 @@ export const governor = [
   {
     county: "Elgeyo Marakwet",
     candidate1: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Wisley Rotich",
+      party: "UDA",
+      votes: 147706,
     },
     candidate2: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Anthony Chelimo",
+      party: "NVP",
+      votes: 11759,
     },
     candidate3: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Kiplagat Changwony",
+      party: "IND",
+      votes: 1763,
     },
     candidate4: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Tabitha Seii",
+      party: "ODM",
+      votes: 1094,
     },
     candidate5: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate6: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate7: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate8: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate9: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate10: {
       name: "",
@@ -2162,157 +2162,157 @@ export const governor = [
     candidate11: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate12: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate13: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     }
   },
   {
     county: "Nandi",
     candidate1: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Stephen Sang",
+      party: "UDA",
+      votes: 273404,
     },
     candidate2: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Cleophas Lagat",
+      party: "IND",
+      votes: 54375,
     },
     candidate3: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Nicholas Koech",
+      party: "IND",
+      votes: 4222,
     },
     candidate4: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Joseph Boor",
+      party: "IND",
+      votes: 3684,
     },
     candidate5: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Kibet Serem",
+      party: "IND",
+      votes: 2999,
     },
     candidate6: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Peter Kombora",
+      party: "IND",
+      votes: 2391,
     },
 
     candidate7: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate8: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate9: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate10: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate11: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate12: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate13: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     }
   },
   {
     county: "Baringo",
     candidate1: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Cheboi Benjamin",
+      party: "UDA",
+      votes: 137486,
     },
     candidate2: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Mosses Lessonet",
+      party: "IND",
+      votes: 60879,
     },
     candidate3: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Stanley Kiptis",
+      party: "IND",
+      votes: 17646,
     },
     candidate4: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate5: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate6: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate7: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate8: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate9: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate10: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate11: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate12: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate13: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     }
   },
   {
