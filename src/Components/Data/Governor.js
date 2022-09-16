@@ -2157,7 +2157,7 @@ export const governor = [
     candidate10: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate11: {
       name: "",
@@ -2318,71 +2318,71 @@ export const governor = [
   {
     county: "Laikipia",
     candidate1: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Joshua Irungu",
+      party: "UDA",
+      votes: 113783,
     },
     candidate2: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Ndiritu Muriithi",
+      party: "JP",
+      votes: 48563,
     },
     candidate3: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "John Joseph",
+      party: "IND",
+      votes: 2657,
     },
     candidate4: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Josphat Kabugu",
+      party: "NARC-Kenya",
+      votes: 1713,
     },
     candidate5: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Richard Kamau",
+      party: "IND",
+      votes: 946,
     },
     candidate6: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate7: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate8: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate9: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate10: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate11: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate12: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate13: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     }
   },
   {
@@ -2390,139 +2390,139 @@ export const governor = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate2: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate3: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate4: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate5: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate6: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate7: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate8: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate9: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate10: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate11: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate12: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate13: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     }
   },
   {
     county: "Vihiga",
     candidate1: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Wilber Ottichilo",
+      party: "ODM",
+      votes: 82313,
     },
     candidate2: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Epainitous Akaranga",
+      party: "PPOK",
+      votes: 42432,
     },
     candidate3: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Khaniri George",
+      party: "UDP",
+      votes: 28496,
     },
     candidate4: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Alfred Masadia",
+      party: "ANC",
+      votes: 26088,
     },
     candidate5: {
-      name: "",
-      party: "",
-      votes: 0,
+      name: "Francis Omindi",
+      party: "FPK",
+      votes: 2325,
     },
     candidate6: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate7: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate8: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate9: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate10: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate11: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate12: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate13: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     }
   },
   {
@@ -2530,69 +2530,69 @@ export const governor = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate2: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate3: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate4: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate5: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate6: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate7: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate8: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate9: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate10: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate11: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate12: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate13: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     }
   },
   {
@@ -2600,69 +2600,69 @@ export const governor = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate2: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate3: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate4: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate5: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate6: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate7: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate8: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate9: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate10: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate11: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate12: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate13: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     }
   },
   {
@@ -2670,69 +2670,69 @@ export const governor = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate2: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate3: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate4: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate5: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate6: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate7: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate8: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate9: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate10: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate11: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate12: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate13: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     }
   },
   {
@@ -2740,69 +2740,69 @@ export const governor = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate2: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate3: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate4: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate5: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate6: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate7: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate8: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate9: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate10: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate11: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate12: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate13: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     }
   },
   {
@@ -2810,69 +2810,69 @@ export const governor = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate2: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate3: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate4: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate5: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate6: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate7: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate8: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate9: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate10: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate11: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate12: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate13: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     }
   },
   {
@@ -2880,69 +2880,69 @@ export const governor = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate2: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate3: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate4: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate5: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate6: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate7: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate8: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate9: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate10: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate11: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate12: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate13: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     }
   },
 
@@ -2951,69 +2951,69 @@ export const governor = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate2: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate3: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate4: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate5: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate6: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate7: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate8: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate9: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate10: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate11: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate12: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate13: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     }
   },
   {
@@ -3021,69 +3021,69 @@ export const governor = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate2: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate3: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate4: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate5: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate6: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate7: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate8: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate9: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate10: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate11: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate12: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate13: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     }
   },
   {
@@ -3091,69 +3091,69 @@ export const governor = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate2: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate3: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate4: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate5: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate6: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate7: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate8: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate9: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate10: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate11: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate12: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate13: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     }
   },
 
@@ -3162,69 +3162,69 @@ export const governor = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate2: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate3: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate4: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate5: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate6: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate7: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate8: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate9: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate10: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate11: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate12: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate13: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     }
   },
   {
@@ -3232,69 +3232,69 @@ export const governor = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate2: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate3: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate4: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate5: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate6: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate7: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
 
     candidate8: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate9: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate10: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate11: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate12: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     },
     candidate13: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
     }
   },
 ];
