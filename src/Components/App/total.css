@@ -1,4 +1,6 @@
-tr,
+tr {
+  width: 100%;
+}
 td {
   border: none;
   width: 25%;
