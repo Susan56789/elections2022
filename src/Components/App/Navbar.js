@@ -24,18 +24,22 @@ const Navbar = () => {
             <li clasName="nav-item" >
               <a className="nav-link" href="/Governor">Governor</a>
             </li>
-            <li clasName="nav-item">
+            {/***
+             * <li clasName="nav-item">
               <a className="nav-link" href="/MCA">MCA</a>
             </li>
+             */}
             <li clasName="nav-item" >
               <a className="nav-link" href="/Senator">Senate</a>
             </li>
             <li clasName="nav-item" >
               <a className="nav-link" href="/Womanrep">Women Rep</a>
             </li>
-            <li  >
+            {/***
+             * <li  >
               <a className="nav-link" href="/MP">National Assembly</a>
             </li>
+             */}
             <li clasName="nav-item" >
               <a className="nav-link" href="/President">President</a>
             </li>
