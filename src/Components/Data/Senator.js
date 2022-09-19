@@ -351,14 +351,14 @@ export const senator = [
       votes: 611,
     },
     candidate8: {
-      name: "",
-      party: "",
-      votes: '',
+      name: "Anuar Loitiptip",
+      party: "IND",
+      votes: 2238,
     },
     candidate9: {
-      name: "",
-      party: "",
-      votes: '',
+      name: "Abdiwely Dhahir",
+      party: "NAPK",
+      votes: 1925,
     },
     candidate10: {
       name: "",
