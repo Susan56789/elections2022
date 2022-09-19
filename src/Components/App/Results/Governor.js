@@ -101,7 +101,7 @@ function Governor() {
                             <tr className='item-row'>
                                 <td>{governor.candidate13.name}</td>
                                 <td>{governor.candidate13.party}</td>
-                                <td>{(governor.candidate13.votes)}</td>
+                                <td>{(governor.candidate13.votes).toLocaleString()}</td>
                             </tr>
                         </tbody>
                     </div>
