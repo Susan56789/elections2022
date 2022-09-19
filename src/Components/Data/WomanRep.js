@@ -4,7 +4,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
 
@@ -25,13 +90,133 @@ export const womanrep = [
       party: "PAA",
       votes: 47639,
     },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
+    },
   },
   {
     county: "Kilifi",
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -39,7 +224,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -47,7 +297,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -55,7 +370,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -63,7 +443,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -71,7 +516,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -79,7 +589,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -87,7 +662,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -95,7 +735,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -103,7 +808,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -111,7 +881,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -119,7 +954,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -127,7 +1027,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -135,7 +1100,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -143,7 +1173,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -151,7 +1246,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -159,7 +1319,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -167,7 +1392,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -175,7 +1465,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -183,7 +1538,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -191,7 +1611,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -199,7 +1684,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -207,7 +1757,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -215,7 +1830,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -223,7 +1903,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -231,7 +1976,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -239,7 +2049,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -247,7 +2122,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -255,7 +2195,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -263,7 +2268,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -271,7 +2341,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -279,7 +2414,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -287,7 +2487,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -295,7 +2560,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -303,7 +2633,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -311,7 +2706,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -319,7 +2779,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -327,7 +2852,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -335,7 +2925,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -343,7 +2998,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
 
@@ -352,7 +3072,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -360,7 +3145,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -368,7 +3218,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
 
@@ -377,7 +3292,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
   {
@@ -385,7 +3365,72 @@ export const womanrep = [
     candidate1: {
       name: "",
       party: "",
-      votes: 0,
+      votes: '',
+    },
+    candidate2: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate3: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate4: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate5: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate6: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate7: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate8: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate9: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate10: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate11: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate12: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate13: {
+      name: "",
+      party: "",
+      votes: '',
+    },
+    candidate14: {
+      name: "",
+      party: "",
+      votes: '',
     },
   },
 ];
