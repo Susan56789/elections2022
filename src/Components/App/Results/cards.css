@@ -1,29 +1,323 @@
-*{
-    box-sizing: border-box;
-
-}
-h1{
-    margin: 10px;
+/* Base styles */
+h1 {
     text-align: center;
+    margin: 2rem 0;
+    font-size: 2rem;
+    color: #333;
 }
-.cards {
-    margin-top: 10px;
-    margin-left: 5px;
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 3fr));
-    grid-gap: .5rem;
 
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 2rem;
+    padding: 1rem;
+    max-width: 1400px;
+    margin: 0 auto;
 }
 
 .card {
-    box-shadow: 0 4px 8px 0 rgba(16, 129, 31, 0.2);
-    transition: 0.3s;
-    border: 1px solid #003366;
-    border-radius: 5px;
-    width: auto;
-
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 1.5rem;
+    border: 1px solid #e2e8f0;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .card:hover {
-    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+.card caption {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #2d3748;
+    margin-bottom: 1rem;
+    display: block;
+    text-align: center;
+}
+
+.total-votes {
+    text-align: center;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    background-color: #f7fafc;
+    border-radius: 6px;
+}
+
+.total-votes small {
+    font-size: 0.9rem;
+    color: #4a5568;
+    font-weight: 500;
+}
+
+.table-wrapper {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+.results-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+}
+
+.results-table th {
+    background-color: #4a5568;
+    color: white;
+    padding: 0.75rem 0.5rem;
+    text-align: left;
+    font-weight: 600;
+    font-size: 0.9rem;
+    border-bottom: 2px solid #2d3748;
+}
+
+.border {
+    height: 2px;
+    background-color: #e2e8f0;
+    margin: 0.5rem 0;
+}
+
+.data {
+    background-color: white;
+}
+
+.item-row {
+    border-bottom: 1px solid #e2e8f0;
+    transition: background-color 0.2s ease;
+}
+
+.item-row:hover {
+    background-color: #f7fafc;
+}
+
+.item-row:last-child {
+    border-bottom: none;
+}
+
+.item-row td {
+    padding: 0.75rem 0.5rem;
+    font-size: 0.9rem;
+    color: #2d3748;
+}
+
+.candidate-name {
+    font-weight: 500;
+    color: #2b6cb0;
+}
+
+.party {
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    color: #4a5568;
+}
+
+.votes {
+    font-weight: 600;
+    color: #2d3748;
+    text-align: right;
+}
+
+/* Tablet responsive styles */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 1.5rem;
+        margin: 1rem 0;
+        padding: 0 1rem;
+    }
+    
+    .cards {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+        padding: 1rem;
+        margin: 0;
+    }
+    
+    .card {
+        padding: 1.25rem;
+        margin: 0;
+        border-radius: 8px;
+    }
+    
+    .card caption {
+        font-size: 1.1rem;
+        margin-bottom: 0.75rem;
+    }
+    
+    .results-table th,
+    .item-row td {
+        padding: 0.6rem 0.4rem;
+        font-size: 0.85rem;
+    }
+    
+    .results-table th {
+        font-size: 0.8rem;
+    }
+}
+
+/* Mobile responsive styles */
+@media (max-width: 480px) {
+    body {
+        margin: 0;
+        padding: 0;
+    }
+    
+    h1 {
+        font-size: 1.3rem;
+        margin: 0.5rem 0 1rem 0;
+        padding: 0 0.5rem;
+    }
+    
+    .cards {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+        padding: 0.5rem;
+        margin: 0;
+    }
+    
+    .card {
+        padding: 1rem;
+        margin: 0;
+        border-radius: 6px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+    
+    .card caption {
+        font-size: 1rem;
+        margin-bottom: 0.5rem;
+    }
+    
+    .total-votes {
+        margin-bottom: 0.75rem;
+        padding: 0.4rem;
+    }
+    
+    .total-votes small {
+        font-size: 0.8rem;
+    }
+    
+    /* Mobile table styles - make table more compact */
+    .table-wrapper {
+        overflow-x: auto;
+        margin: 0 -0.5rem; /* Allow table to use full width */
+    }
+    
+    .results-table {
+        min-width: 100%;
+        font-size: 0.75rem;
+    }
+    
+    .results-table th {
+        padding: 0.5rem 0.25rem;
+        font-size: 0.7rem;
+        white-space: nowrap;
+    }
+    
+    .item-row td {
+        padding: 0.5rem 0.25rem;
+        font-size: 0.75rem;
+    }
+    
+    .candidate-name {
+        font-size: 0.75rem;
+        line-height: 1.2;
+    }
+    
+    .party {
+        font-size: 0.7rem;
+    }
+    
+    .votes {
+        font-size: 0.75rem;
+        white-space: nowrap;
+    }
+}
+
+/* Very small screens - alternative card-like layout */
+@media (max-width: 360px) {
+    .cards {
+        padding: 0.25rem;
+        gap: 0.75rem;
+    }
+    
+    .card {
+        padding: 0.75rem;
+    }
+    
+    .card caption {
+        font-size: 0.9rem;
+    }
+    
+    /* Convert table to card-like layout for very small screens */
+    .results-table thead {
+        position: absolute;
+        left: -9999px;
+        top: -9999px;
+    }
+    
+    .results-table,
+    .results-table tbody,
+    .results-table tr {
+        display: block;
+    }
+    
+    .results-table tr {
+        border: 1px solid #e2e8f0;
+        margin-bottom: 0.5rem;
+        padding: 0.5rem;
+        border-radius: 4px;
+        background-color: #f9f9f9;
+    }
+    
+    .results-table td {
+        display: block;
+        text-align: left;
+        padding: 0.25rem 0;
+        border: none;
+    }
+    
+    .results-table td:before {
+        content: attr(data-label);
+        font-weight: bold;
+        color: #4a5568;
+        display: inline-block;
+        width: 60px;
+        margin-right: 10px;
+    }
+    
+    .candidate-name:before {
+        content: "Name:";
+    }
+    
+    .party:before {
+        content: "Party:";
+    }
+    
+    .votes:before {
+        content: "Votes:";
+        text-align: left;
+    }
+    
+    .votes {
+        text-align: left;
+    }
+}
+
+/* Large screens */
+@media (min-width: 1200px) {
+    .cards {
+        grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+        gap: 2.5rem;
+        padding: 2rem;
+    }
+    
+    .card {
+        padding: 2rem;
+    }
+    
+    .card caption {
+        font-size: 1.3rem;
+    }
 }

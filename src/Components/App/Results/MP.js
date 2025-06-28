@@ -1,24 +1,67 @@
-import React from 'react'
-import { mp } from '../../Data/Mps'
-import './cards.css'
+
+import { mp } from '../../Data/Mps';
+import './cards.css';
 
 function MP() {
+    // Helper function to calculate total votes
+    const calculateTotalVotes = (constituencyData) => {
+        return Object.values(constituencyData)
+            .filter(item => typeof item === 'object' && item.votes)
+            .reduce((total, candidate) => total + candidate.votes, 0);
+    };
+
+    // Helper function to get all candidates from a constituency
+    const getCandidates = (constituencyData) => {
+        return Object.values(constituencyData)
+            .filter(item => typeof item === 'object' && item.name && item.party && typeof item.votes === 'number')
+            .sort((a, b) => b.votes - a.votes); // Sort by votes descending
+    };
+
     return (
         <>
             <h1>2022 National Assembly Race</h1>
             <div className='cards'>
-                {mp.map((mp) => (
+                {mp.map((constituencyData, index) => {
+                    const candidates = getCandidates(constituencyData);
+                    const totalVotes = calculateTotalVotes(constituencyData);
 
-                    <>
+                    return (
+                        <div key={index} className='card'>
+                            <caption>{constituencyData.constituency || constituencyData.county} Constituency</caption>
+                            
+                            <div className='total-votes'>
+                                <small>
+                                    Total Votes: {totalVotes.toLocaleString()}
+                                </small>
+                            </div>
 
-                    </>
-
-                ))
-                }
-
+                            <div className='table-wrapper'>
+                                <table className='results-table'>
+                                    <thead>
+                                        <tr>
+                                            <th>Candidate Names</th>
+                                            <th>Party</th>
+                                            <th>Votes</th>
+                                        </tr>
+                                    </thead>
+                                    <div className='border' id='border'></div>
+                                    <tbody className='data'>
+                                        {candidates.map((candidate, candidateIndex) => (
+                                            <tr key={candidateIndex} className='item-row'>
+                                                <td className='candidate-name'>{candidate.name}</td>
+                                                <td className='party'>{candidate.party}</td>
+                                                <td className='votes'>{candidate.votes.toLocaleString()}</td>
+                                            </tr>
+                                        ))}
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    );
+                })}
             </div>
         </>
-    )
+    );
 }
 
-export default MP
+export default MP;

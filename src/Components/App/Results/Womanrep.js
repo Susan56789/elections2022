@@ -1,113 +1,67 @@
-import React from 'react'
-import { womanrep } from '../../Data/WomanRep'
-import './cards.css'
+
+import { womanrep } from '../../Data/WomanRep';
+import './cards.css';
 
 function Womanrep() {
+    // Helper function to calculate total votes
+    const calculateTotalVotes = (countyData) => {
+        return Object.values(countyData)
+            .filter(item => typeof item === 'object' && item.votes)
+            .reduce((total, candidate) => total + candidate.votes, 0);
+    };
+
+    // Helper function to get all candidates from a county
+    const getCandidates = (countyData) => {
+        return Object.values(countyData)
+            .filter(item => typeof item === 'object' && item.name && item.party && typeof item.votes === 'number')
+            .sort((a, b) => b.votes - a.votes); // Sort by votes descending
+    };
 
     return (
         <>
             <h1>2022 Women Representative's Race</h1>
             <div className='cards'>
-                {womanrep.map((womanrep) => (
-                    <div className='card'>
-                        <caption>{womanrep.county} County</caption>
-                        <tr>
+                {womanrep.map((countyData, index) => {
+                    const candidates = getCandidates(countyData);
+                    const totalVotes = calculateTotalVotes(countyData);
 
-                            <td>
+                    return (
+                        <div key={index} className='card'>
+                            <caption>{countyData.county} County</caption>
+                            
+                            <div className='total-votes'>
                                 <small>
-                                    Total Votes: {(womanrep.candidate1.votes + womanrep.candidate2.votes +
-                                        womanrep.candidate3.votes + womanrep.candidate4.votes + womanrep.candidate5.votes
-                                        + womanrep.candidate6.votes + womanrep.candidate7.votes + womanrep.candidate8.votes
-                                        + womanrep.candidate9.votes + womanrep.candidate10.votes + womanrep.candidate11.votes
-                                        + womanrep.candidate12.votes + womanrep.candidate13.votes + womanrep.candidate14.votes).toLocaleString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")}
+                                    Total Votes: {totalVotes.toLocaleString()}
                                 </small>
-                            </td>
-                        </tr>
-                        <tbody>
-                            <tr>
-                                <td>Candidate Names</td>
-                                <td>Party</td>
-                                <td>Votes</td>
-                            </tr>
-                            <div className='border' id='border'></div>
-                            <tr className='item-row'>
-                                <td>{womanrep.candidate1.name}</td>
-                                <td>{womanrep.candidate1.party}</td>
-                                <td>{(womanrep.candidate1.votes).toLocaleString()}</td>
+                            </div>
 
-                            </tr>
-                            <tr className='item-row'>
-                                <td>{womanrep.candidate2.name}</td>
-                                <td>{womanrep.candidate2.party}</td>
-                                <td>{(womanrep.candidate2.votes).toLocaleString()}</td>
-                            </tr>
-                            <tr className='item-row'>
-                                <td>{womanrep.candidate3.name}</td>
-                                <td>{womanrep.candidate3.party}</td>
-                                <td>{(womanrep.candidate3.votes).toLocaleString()}</td>
-                            </tr>
-                            <tr className='item-row'>
-                                <td>{womanrep.candidate4.name}</td>
-                                <td>{womanrep.candidate4.party}</td>
-                                <td>{(womanrep.candidate4.votes).toLocaleString()}</td>
-                            </tr>
-                            <tr className='item-row'>
-                                <td>{womanrep.candidate5.name}</td>
-                                <td>{womanrep.candidate5.party}</td>
-                                <td>{(womanrep.candidate5.votes).toLocaleString()}</td>
-                            </tr>
-                            <tr className='item-row'>
-                                <td>{womanrep.candidate6.name}</td>
-                                <td>{womanrep.candidate6.party}</td>
-                                <td>{(womanrep.candidate6.votes).toLocaleString()}</td>
-                            </tr>
-                            <tr className='item-row'>
-                                <td>{womanrep.candidate7.name}</td>
-                                <td>{womanrep.candidate7.party}</td>
-                                <td>{(womanrep.candidate7.votes).toLocaleString()}</td>
-                            </tr>
-                            <tr className='item-row'>
-                                <td>{womanrep.candidate8.name}</td>
-                                <td>{womanrep.candidate8.party}</td>
-                                <td>{(womanrep.candidate8.votes).toLocaleString()}</td>
-                            </tr>
-                            <tr className='item-row'>
-                                <td>{womanrep.candidate9.name}</td>
-                                <td>{womanrep.candidate9.party}</td>
-                                <td>{(womanrep.candidate9.votes).toLocaleString()}</td>
-                            </tr>
-                            <tr className='item-row'>
-                                <td>{womanrep.candidate10.name}</td>
-                                <td>{womanrep.candidate10.party}</td>
-                                <td>{(womanrep.candidate10.votes).toLocaleString()}</td>
-                            </tr>
-                            <tr className='item-row'>
-                                <td>{womanrep.candidate11.name}</td>
-                                <td>{womanrep.candidate11.party}</td>
-                                <td>{(womanrep.candidate11.votes).toLocaleString()}</td>
-                            </tr>
-                            <tr className='item-row'>
-                                <td>{womanrep.candidate12.name}</td>
-                                <td>{womanrep.candidate12.party}</td>
-                                <td>{(womanrep.candidate12.votes).toLocaleString()}</td>
-                            </tr>
-                            <tr className='item-row'>
-                                <td>{womanrep.candidate13.name}</td>
-                                <td>{womanrep.candidate13.party}</td>
-                                <td>{(womanrep.candidate13.votes).toLocaleString()}</td>
-                            </tr>
-                            <tr className='item-row'>
-                                <td>{womanrep.candidate14.name}</td>
-                                <td>{womanrep.candidate14.party}</td>
-                                <td>{(womanrep.candidate14.votes).toLocaleString()}</td>
-                            </tr>
-                        </tbody>
-                    </div>
-                ))
-                }
+                            <div className='table-wrapper'>
+                                <table className='results-table'>
+                                    <thead>
+                                        <tr>
+                                            <th>Candidate Names</th>
+                                            <th>Party</th>
+                                            <th>Votes</th>
+                                        </tr>
+                                    </thead>
+                                    <div className='border' id='border'></div>
+                                    <tbody className='data'>
+                                        {candidates.map((candidate, candidateIndex) => (
+                                            <tr key={candidateIndex} className='item-row'>
+                                                <td className='candidate-name'>{candidate.name}</td>
+                                                <td className='party'>{candidate.party}</td>
+                                                <td className='votes'>{candidate.votes.toLocaleString()}</td>
+                                            </tr>
+                                        ))}
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    );
+                })}
             </div>
         </>
-    )
+    );
 }
 
-export default Womanrep
+export default Womanrep;

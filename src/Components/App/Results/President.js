@@ -3,75 +3,64 @@ import { president } from "../../Data/President";
 import "./cards.css";
 
 export default function President() {
-  return (
-    <>
+    // Helper function to calculate total votes
+    const calculateTotalVotes = (countyData) => {
+        return Object.values(countyData)
+            .filter(item => typeof item === 'object' && item.votes)
+            .reduce((total, candidate) => total + candidate.votes, 0);
+    };
 
+    // Helper function to get all candidates from a county
+    const getCandidates = (countyData) => {
+        return Object.values(countyData)
+            .filter(item => typeof item === 'object' && item.name && item.party && typeof item.votes === 'number')
+            .sort((a, b) => b.votes - a.votes); // Sort by votes descending
+    };
 
-      <h1>Official Presidential Results Per County</h1>
+    return (
+        <>
+            <h1>Official Presidential Results Per County</h1>
+            
+            <div className="cards">
+                {president.map((countyData, index) => {
+                    const candidates = getCandidates(countyData);
+                    const totalVotes = calculateTotalVotes(countyData);
 
-      <div className="cards">
-        {president.map((president) => (
-          <>
-            <div className="card">
-              <caption>{president.county} County</caption>
+                    return (
+                        <div key={index} className="card">
+                            <caption>{countyData.county} County</caption>
+                            
+                            <div className="total-votes">
+                                <small>
+                                    Total Votes: {totalVotes.toLocaleString()}
+                                </small>
+                            </div>
 
-              <tbody>
-                <tr>
-                  <td>
-                    <small>
-                      Total Votes: {(president.candidate1.votes + president.candidate2.votes + president.candidate3.votes + president.candidate4.votes).toLocaleString()}
-                    </small>
-                  </td>
-                </tr>
-                <tr>
-                  <td>Candidate Names</td>
-                  <td>Party</td>
-                  <td>Votes</td>
-                </tr>
-
-                <hr />
-                <tr>
-                  <td> {president.candidate1.name}</td>
-                  <td> {president.candidate1.party}</td>
-                  <td> {(president.candidate1.votes).toLocaleString()}</td>
-                </tr>
-
-                <tr>
-                  <td> {president.candidate2.name}</td>
-                  <td> {president.candidate2.party}</td>
-
-                  <td> {(president.candidate2.votes).toLocaleString()}</td>
-
-
-
-                </tr>
-                <tr>
-                  <td> {president.candidate3.name}</td>
-                  <td> {president.candidate3.party}</td>
-
-                  <td> {(president.candidate3.votes).toLocaleString()}</td>
-
-
-                </tr>
-                <tr>
-                  <td> {president.candidate4.name}</td>
-                  <td> {president.candidate4.party}</td>
-
-                  <td> {(president.candidate4.votes).toLocaleString()}</td>
-
-
-
-                </tr>
-              </tbody>
-
+                            <div className="table-wrapper">
+                                <table className="results-table">
+                                    <thead>
+                                        <tr>
+                                            <th>Candidate Names</th>
+                                            <th>Party</th>
+                                            <th>Votes</th>
+                                        </tr>
+                                    </thead>
+                                    <div className="border" id="border"></div>
+                                    <tbody className="data">
+                                        {candidates.map((candidate, candidateIndex) => (
+                                            <tr key={candidateIndex} className="item-row">
+                                                <td className="candidate-name">{candidate.name}</td>
+                                                <td className="party">{candidate.party}</td>
+                                                <td className="votes">{candidate.votes.toLocaleString()}</td>
+                                            </tr>
+                                        ))}
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    );
+                })}
             </div>
-          </>
-        ))}
-      </div>
-    </>
-  );
+        </>
+    );
 }
-
-
-
-
